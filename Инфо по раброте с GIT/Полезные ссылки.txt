@@ -10,3 +10,10 @@ githowto.com интерактивный курс по работе с git из �
 habrahabr.ru/blogs/Git/106912 «Почему git» + обсуждение
 habrahabr.ru/blogs/development/68341 «Git для переходящих с SVN» + обсуждение
 habrahabr.ru/blogs/Git/75990 «Командная работа в git» + обсуждение
+
+
+Добавлено в рамках фичи 3 
+видео
+rutracker.org/forum/viewtopic.php?t=3520513 видеокурс, посвященный git. Довольно нескучный и с юмором.
+www.youtube.com/watch?v=8dhZ9BXQgc4 лекция о git от Randal Schwartz
+excess.org/article/2008/07/ogre-git-tutorial видеотуториал Git The Basics Tutorial
