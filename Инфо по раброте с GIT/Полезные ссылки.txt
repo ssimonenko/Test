@@ -12,6 +12,7 @@ habrahabr.ru/blogs/development/68341 «Git для переходящих с SVN�
 habrahabr.ru/blogs/Git/75990 «Командная работа в git» + обсуждение
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Добавлено в рамках фичи 3 
 видео
@@ -32,3 +33,6 @@ http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html книга «Git 
 
 
 Фича 4 добавлена
+=======
+Hotfix 1 с прода
+>>>>>>> Hot_Fix_с_прода
