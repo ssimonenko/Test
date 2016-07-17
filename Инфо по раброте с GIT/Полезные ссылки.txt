@@ -29,3 +29,6 @@ rutracker.org/forum/viewtopic.php?t=3239579 книга «Pragmatic Guide to Git�
 rutracker.org/forum/viewtopic.php?t=900767 книга «Git Internals»
 http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html книга «Git Magic»
 >>>>>>> fd253e13a8912c8d6b416f13056819932912493a
+
+
+Фича 4 добавлена
