@@ -11,9 +11,21 @@ habrahabr.ru/blogs/Git/106912 «Почему git» + обсуждение
 habrahabr.ru/blogs/development/68341 «Git для переходящих с SVN» + обсуждение
 habrahabr.ru/blogs/Git/75990 «Командная работа в git» + обсуждение
 
+<<<<<<< HEAD
 
 Добавлено в рамках фичи 3 
 видео
 rutracker.org/forum/viewtopic.php?t=3520513 видеокурс, посвященный git. Довольно нескучный и с юмором.
 www.youtube.com/watch?v=8dhZ9BXQgc4 лекция о git от Randal Schwartz
 excess.org/article/2008/07/ogre-git-tutorial видеотуториал Git The Basics Tutorial
+=======
+Про git на английском:
+книги
+progit.org/book книга «Pro Git»
+rutracker.org/forum/viewtopic.php?t=2808582 книга «Version Control with Git», 2009, O'Reilly
+book.git-scm.com книга «Git Community Book»
+rutracker.org/forum/viewtopic.php?t=2808843 книга «Pragmatic Version Control Using Git», 2008, T. Swicegood
+rutracker.org/forum/viewtopic.php?t=3239579 книга «Pragmatic Guide to Git», 2010, T. Swicegood. Описываемая версия git: 1.7.2.1. Книга в формате двустраничных разворотов — проблема/решение
+rutracker.org/forum/viewtopic.php?t=900767 книга «Git Internals»
+http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html книга «Git Magic»
+>>>>>>> fd253e13a8912c8d6b416f13056819932912493a
