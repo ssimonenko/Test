@@ -3,3 +3,10 @@ code.google.com/p/msysgit git для windows
 www.syntevo.com/smartgit/index.html SmartGit
 code.google.com/p/tortoisegit TortoiseGit 
 http://www.chiark.greenend.org.uk/~sgtatham/putty/ PuTTY
+
+Про git на русском:
+habrahabr.ru/blogs/Git/106912 «Удачная модель ветвления для git» — перевод хорошей англоязычной статьи
+githowto.com интерактивный курс по работе с git из консоли
+habrahabr.ru/blogs/Git/106912 «Почему git» + обсуждение
+habrahabr.ru/blogs/development/68341 «Git для переходящих с SVN» + обсуждение
+habrahabr.ru/blogs/Git/75990 «Командная работа в git» + обсуждение
