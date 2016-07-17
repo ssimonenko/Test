@@ -10,3 +10,13 @@ githowto.com интерактивный курс по работе с git из �
 habrahabr.ru/blogs/Git/106912 «Почему git» + обсуждение
 habrahabr.ru/blogs/development/68341 «Git для переходящих с SVN» + обсуждение
 habrahabr.ru/blogs/Git/75990 «Командная работа в git» + обсуждение
+
+Про git на английском:
+книги
+progit.org/book книга «Pro Git»
+rutracker.org/forum/viewtopic.php?t=2808582 книга «Version Control with Git», 2009, O'Reilly
+book.git-scm.com книга «Git Community Book»
+rutracker.org/forum/viewtopic.php?t=2808843 книга «Pragmatic Version Control Using Git», 2008, T. Swicegood
+rutracker.org/forum/viewtopic.php?t=3239579 книга «Pragmatic Guide to Git», 2010, T. Swicegood. Описываемая версия git: 1.7.2.1. Книга в формате двустраничных разворотов — проблема/решение
+rutracker.org/forum/viewtopic.php?t=900767 книга «Git Internals»
+http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html книга «Git Magic»
