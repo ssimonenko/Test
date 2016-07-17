@@ -1,0 +1,5 @@
+Для работы с git:
+code.google.com/p/msysgit git для windows
+www.syntevo.com/smartgit/index.html SmartGit
+code.google.com/p/tortoisegit TortoiseGit 
+http://www.chiark.greenend.org.uk/~sgtatham/putty/ PuTTY
