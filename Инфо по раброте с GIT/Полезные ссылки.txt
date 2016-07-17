@@ -11,8 +11,12 @@ habrahabr.ru/blogs/Git/106912 «Почему git» + обсуждение
 habrahabr.ru/blogs/development/68341 «Git для переходящих с SVN» + обсуждение
 habrahabr.ru/blogs/Git/75990 «Командная работа в git» + обсуждение
 
+<<<<<<< HEAD
 progit.org/book/ru русский перевод книги «Pro Git» (переведено не до конца)
 habrahabr.ru/blogs/Git/123111 инструкция-шпаргалка для начинающих
 los-t.livejournal.com/tag/git%20guts цикл постов «внутренности git»
 lib.custis.ru/%D0%9B%D0%B8%D0%BD%D1%83%D1%81_%D0%A2%D0%BE%D1%80%D0%B2%D0%B0%D0%BB%D1%8C%D0%B4%D1%81_%D0%BE_GIT_%D0%BD%D0%B0_Google_Talks Линус Торвальдс о git
 habrahabr.ru/blogs/Git/80909 книга «Волшебство git» 
+=======
+Hotfix 1 с прода
+>>>>>>> Hot_Fix_с_прода
